@@ -5,7 +5,7 @@ To write a C program to convert the given string to lowercase without using stri
 
 ## Algorithm
 1. Start. 
-2. Define the required variable. 
+2. Define the required variable.  
 3. Convert the string to lowercase. 
 4. Read the value using scanf. 
 5. Print out the answer. 
