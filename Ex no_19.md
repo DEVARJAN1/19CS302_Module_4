@@ -6,7 +6,7 @@ To write a C program to perform basic left and right shift operations on a given
 ## Algorithm
 1. Start
 2. Declare variables: num, leftShift, rightShift
-3. Display the message: "Enter an integer"
+3. Display the message: "Enter an integer" 
 4. Read the integer num from the user
 5. Perform left shift: leftShift = num << 1
 6. Perform right shift: rightShift = num >> 1
