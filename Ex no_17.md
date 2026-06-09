@@ -12,7 +12,7 @@ To write a C Program to compare two strings without using strcmp().
 6. Print out the answer. 
 7. End.  
 
-## Program:
+## Program: 
 ```
 #include <stdio.h> 
 int main() { 
